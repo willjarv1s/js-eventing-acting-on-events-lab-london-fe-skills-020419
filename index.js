@@ -17,11 +17,11 @@ var dodger = document.getElementById('dodger')
   }
 }
 
-document.addEventListener('keydown', function(e) {
-  if (e.which === 37) {
-    moveDodgerLeft()
-  }
-})
+//document.addEventListener('keydown', function(e) {
+ // if (e.which === 37) {
+ //   moveDodgerLeft()
+ // }
+//})
 
 function moveDodgerRight() {
   var leftNumbers = dodger.style.left.replace('px', '')
