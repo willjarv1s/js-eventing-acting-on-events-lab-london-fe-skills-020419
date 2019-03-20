@@ -1,14 +1,14 @@
 var dodger = document.getElementById('dodger')
 
-dodger.style.backgroundColor = "pink"
+//dodger.style.backgroundColor = "pink"
 
-dodger.style.height = "80px"
+//dodger.style.height = "80px"
 
-dodger.style.width = "100px"
+//dodger.style.width = "100px"
 
-dodger.style.bottom = '0px'
+//dodger.style.bottom = '0px'
 
-function moveDodgerLeft() {
+//function moveDodgerLeft() {
   var leftNumbers = dodger.style.left.replace('px', '')
   var left = parseInt(leftNumbers, 10)
  
