@@ -6,7 +6,7 @@ dodger.style.height = "80px"
 
 dodger.style.width = "100px"
 
-dodger.style.align = "centre"
+
 
 
 
